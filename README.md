@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Vu
 
 <!--
 **vunguyenphanhoang/vunguyenphanhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+I'm a data engineer with a good skill set, focusing on data engineer, business intelligence, and applied data science. With more than four years of experience worked ,I contributed to the data management department at Vietnam’s top 1 financial company. My previous education in computer science gave me a critical mindset when solving problems. My professional experiences revolve around processing data. 
+
+### Tool and Technology
+Languages: Python, C#
+Databases: Oracle SQL, MySQL, SQL Server, PostgreSql
+ETL tools: Pentaho, SSIS, IBM Data Stage
+Other: Jupyter, Git, Jira, Solidatus
